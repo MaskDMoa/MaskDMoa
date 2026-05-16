@@ -33,7 +33,6 @@ maskdmoa = {
   "stack" : ["Python", "Java", "SQL"],
   "área"  : ["Automação", "SIEM", "Cybersec"],
   "cidade": "Brasil 🇧🇷",
-  "status": "▓▓▓▓▓▓▓░░░ building...",
 }
 ```
 
