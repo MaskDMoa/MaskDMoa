@@ -1,13 +1,11 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e00,50:2d1a00,100:1a0e00&height=220&section=header&text=MaskDMoa&fontSize=75&fontColor=b8860b&fontAlignY=40&desc=Developer%20·%20Security%20Researcher&descSize=16&descAlignY=62&descColor=8b4513&animation=twinkling&stroke=8b4513&strokeWidth=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=19&duration=2800&pause=900&color=B8860B&center=true&vCenter=true&width=580&lines=Python+%7C+Java+%7C+SQL;SIEM+%7C+Wazuh+%7C+Cybersecurity;Automação+%7C+Desenvolvimento;Sempre+construindo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&size=19&duration=2800&pause=900&color=B8860B&center=true&vCenter=true&width=580&lines=Python+%7C+Java+%7C+SQL;SIEM+%7C+Wazuh+%7C+Cybersecurity;Automa%C3%A7%C3%A3o+%7C+Desenvolvimento;Sempre+construindo+algo+novo" alt="Typing SVG" />
 
 <br/>
 
-![](https://img.shields.io/badge/⚙_Engrenagens_em_movimento-1a0e00?style=flat-square&labelColor=1a0e00&color=2d1a00&logoColor=b8860b)
 
 </div>
 
@@ -33,6 +31,7 @@ maskdmoa = {
   "stack" : ["Python", "Java", "SQL"],
   "área"  : ["Automação", "SIEM", "Cybersec"],
   "cidade": "Brasil 🇧🇷",
+  "status": "▓▓▓▓▓▓▓░░░ building...",
 }
 ```
 
