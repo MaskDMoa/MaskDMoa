@@ -92,9 +92,9 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MaskDMoa&show_icons=true&hide_title=true&bg_color=120b00&icon_color=8b4513&text_color=b8860b&border_color=5c3300&border_radius=0&hide_border=false&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.anuraghazra.dev/api?username=MaskDMoa&show_icons=true&hide_title=true&bg_color=120b00&icon_color=8b4513&text_color=b8860b&border_color=5c3300&border_radius=0&hide_border=false&rank_icon=github"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaskDMoa&layout=compact&bg_color=120b00&title_color=b8860b&text_color=b8860b&border_color=5c3300&border_radius=0"/>
+<img height="165em" src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=MaskDMoa&layout=compact&bg_color=120b00&title_color=b8860b&text_color=b8860b&border_color=5c3300&border_radius=0"/>
 
 </div>
 
