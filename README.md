@@ -16,25 +16,14 @@
 
 ## `§ Sobre`
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Nome** &nbsp;&nbsp;&nbsp; Hiago
-<br/>**Nick** &nbsp;&nbsp;&nbsp;&nbsp; MaskDMoa
-<br/>**Foco** &nbsp;&nbsp;&nbsp;&nbsp; Dev · Segurança da Informação
-<br/>**Stack** &nbsp;&nbsp; Python · Java · SQL
-<br/>**Areas** &nbsp;&nbsp; Automação · SIEM · Cybersec
-<br/>**Local** &nbsp;&nbsp;&nbsp; Brasil
-
-</td>
-<td valign="top" width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MaskDMoa&show_icons=true&hide_title=true&bg_color=120b00&icon_color=8b4513&text_color=b8860b&border_color=5c3300&border_radius=0&hide_border=false&rank_icon=github" width="100%"/>
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🪙 **Nome** | Hiago |
+| ⚙ **Nick** | MaskDMoa |
+| 🔭 **Foco** | Desenvolvimento · Segurança da Informação |
+| 🛠 **Stack** | Python · Java · SQL |
+| 📡 **Areas** | Automação · SIEM · Cybersec |
+| 🌎 **Local** | Brasil |
 
 <br/>
 
@@ -103,9 +92,17 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaskDMoa&layout=compact&bg_color=120b00&title_color=b8860b&text_color=b8860b&border_color=5c3300&border_radius=0"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MaskDMoa&show_icons=true&hide_title=true&bg_color=120b00&icon_color=8b4513&text_color=b8860b&border_color=5c3300&border_radius=0&hide_border=false&rank_icon=github"/>
 &nbsp;
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaskDMoa&theme=dark&background=120b00&ring=8b4513&fire=b8860b&currStreakLabel=b8860b&sideLabels=b8860b&currStreakNum=8b4513&sideNums=8b4513&border=5c3300&dates=665533"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaskDMoa&layout=compact&bg_color=120b00&title_color=b8860b&text_color=b8860b&border_color=5c3300&border_radius=0"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=MaskDMoa&theme=dark&background=120b00&ring=8b4513&fire=b8860b&currStreakLabel=b8860b&sideLabels=b8860b&currStreakNum=8b4513&sideNums=8b4513&border=5c3300&dates=665533"/>
 
 </div>
 
