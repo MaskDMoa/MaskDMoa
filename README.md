@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e00,50:2d1a00,100:1a0e00&height=220&section=header&text=MaskDMoa&fontSize=75&fontColor=b8860b&fontAlignY=40&desc=Developer%20·%20Security%20Researcher&descSize=16&descAlignY=62&descColor=8b4513&animation=twinkling&stroke=8b4513&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e00,50:2d1a00,100:1a0e00&height=220&section=header&text=MaskDMoa&fontSize=75&fontColor=b8860b&fontAlignY=40&desc=Developer%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=62&descColor=8b4513&animation=twinkling&stroke=8b4513&strokeWidth=2" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&size=19&duration=2800&pause=900&color=B8860B&center=true&vCenter=true&width=580&lines=Python+%7C+Java+%7C+SQL;SIEM+%7C+Wazuh+%7C+Cybersecurity;Automa%C3%A7%C3%A3o+%7C+Desenvolvimento;Sempre+construindo+algo+novo" alt="Typing SVG" />
-
-<br/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&size=19&duration=2800&pause=900&color=B8860B&center=true&vCenter=true&width=580&lines=Python+%7C+Java+%7C+SQL;SIEM+%7C+Wazuh+%7C+Cybersecurity;Automacao+%7C+Desenvolvimento;Sempre+construindo+algo+novo" alt="Typing SVG" />
 
 </div>
 
@@ -17,26 +14,21 @@
 
 <br/>
 
+## `§ Sobre`
+
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
-### `§ Sobre`
-
-```python
-maskdmoa = {
-  "nome"  : "Hiago",
-  "nick"  : "MaskDMoa",
-  "foco"  : "Dev · Segurança da Informação",
-  "stack" : ["Python", "Java", "SQL"],
-  "área"  : ["Automação", "SIEM", "Cybersec"],
-  "cidade": "Brasil 🇧🇷",
-  "status": "▓▓▓▓▓▓▓░░░ building...",
-}
-```
+**Nome** &nbsp;&nbsp;&nbsp; Hiago
+<br/>**Nick** &nbsp;&nbsp;&nbsp;&nbsp; MaskDMoa
+<br/>**Foco** &nbsp;&nbsp;&nbsp;&nbsp; Dev · Segurança da Informação
+<br/>**Stack** &nbsp;&nbsp; Python · Java · SQL
+<br/>**Areas** &nbsp;&nbsp; Automação · SIEM · Cybersec
+<br/>**Local** &nbsp;&nbsp;&nbsp; Brasil
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="top" width="50%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MaskDMoa&show_icons=true&hide_title=true&bg_color=120b00&icon_color=8b4513&text_color=b8860b&border_color=5c3300&border_radius=0&hide_border=false&rank_icon=github" width="100%"/>
 
@@ -89,13 +81,13 @@ maskdmoa = {
 
 <div align="center">
 
-| ⚙ | Projeto | Descrição | Stack |
+| ⚙ | Projeto | Descricao | Stack |
 |:---:|---|---|:---:|
-| `I` | [**Wazuh Alert Automation**](https://github.com/MaskDMoa/Trabalho-Fetin-089) | Automação de resposta a alertas no SIEM Wazuh | `Python` |
-| `II` | [**Open Source Lab**](https://github.com/MaskDMoa/dio-lab-open-source) | Contribuições open source — DIO | `Git` |
-| `III` | [**Java POO**](https://github.com/MaskDMoa/Trabalho-de-POO-usando-java-) | Programação Orientada a Objetos | `Java` |
-| `IV` | [**BD Database**](https://github.com/MaskDMoa/Trabalho-de-BD-Banco-de-Dados-) | Modelagem e manipulação de banco de dados | `Java · SQL` |
-| `V` | [**Python Exercises**](https://github.com/MaskDMoa/Python-Exercicios) | Exercícios e estudos em Python | `Python` |
+| `I` | [**Wazuh Alert Automation**](https://github.com/MaskDMoa/Trabalho-Fetin-089) | Automacao de resposta a alertas no SIEM Wazuh | `Python` |
+| `II` | [**Open Source Lab**](https://github.com/MaskDMoa/dio-lab-open-source) | Contribuicoes open source — DIO | `Git` |
+| `III` | [**Java POO**](https://github.com/MaskDMoa/Trabalho-de-POO-usando-java-) | Programacao Orientada a Objetos | `Java` |
+| `IV` | [**BD Database**](https://github.com/MaskDMoa/Trabalho-de-BD-Banco-de-Dados-) | Modelagem e manipulacao de banco de dados | `Java · SQL` |
+| `V` | [**Python Exercises**](https://github.com/MaskDMoa/Python-Exercicios) | Exercicios e estudos em Python | `Python` |
 
 </div>
 
